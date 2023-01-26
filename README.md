@@ -5,39 +5,30 @@ To write a python program for getting the word count from the contents of a file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-## Step 1:
+Step 1:
 
 Open vscode.
 
-##Step 2:
+Step 2:
 
 Type the program.
 
-##Step 3:
+Step 3:
 
 save the python file.
 
-##Step 4:
+Step 4:
 
 create a text file .
 
-##Step 5:
+Step 5:
 
 Run the program in the vscode, in the terminal type the following commands.
 
-##Step 6:
+Step 6:
 
 End the program.
-
-### Step 2: 
  
-### Step 3: 
-
-### Step 4:  
-
-### Step 5: 
-
-### Step 6: 
 
 ## PROGRAM:
 ```
